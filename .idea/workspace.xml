@@ -69,8 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/js/app-main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="285" column="52" lean-forward="true" selection-start-line="285" selection-start-column="52" selection-end-line="285" selection-end-column="52" />
+            <state relative-caret-position="557">
+              <caret line="295" selection-start-line="295" selection-end-line="295" />
             </state>
           </provider>
         </entry>
@@ -167,7 +167,6 @@
         <option value="$PROJECT_DIR$/src/view/app/panel/aftab_boxes.php" />
         <option value="$PROJECT_DIR$/src/view/app_master_page_public.php" />
         <option value="$PROJECT_DIR$/system/routes/app/v1/my_login.php" />
-        <option value="$PROJECT_DIR$/assets/js/app-main.js" />
         <option value="$PROJECT_DIR$/src/view/app/login.php" />
         <option value="$PROJECT_DIR$/src/view/app/panel/aftab_boxes1.php" />
         <option value="$PROJECT_DIR$/system/routes/app/v1/my_panel.php" />
@@ -180,6 +179,7 @@
         <option value="$PROJECT_DIR$/src/view/app/panel/parcel-out.php" />
         <option value="$PROJECT_DIR$/src/view/app/index.php" />
         <option value="$PROJECT_DIR$/src/view/app/dashboard.php" />
+        <option value="$PROJECT_DIR$/assets/js/app-main.js" />
       </list>
     </option>
   </component>
@@ -436,12 +436,34 @@
       <workItem from="1565060644269" duration="12992000" />
       <workItem from="1565155352930" duration="8436000" />
       <workItem from="1565238135453" duration="6738000" />
-      <workItem from="1565667320782" duration="2637000" />
+      <workItem from="1565667320782" duration="3217000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1565675128979</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565675128979</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1565675271630</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565675271630</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1565675356439</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565675356439</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="297407000" />
+    <option name="totallyTimeSpent" value="297987000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="0" />
@@ -473,6 +495,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Models/v1/Users.php">
@@ -807,8 +833,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/app-main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="285" column="52" lean-forward="true" selection-start-line="285" selection-start-column="52" selection-end-line="285" selection-end-column="52" />
+        <state relative-caret-position="557">
+          <caret line="295" selection-start-line="295" selection-end-line="295" />
         </state>
       </provider>
     </entry>
