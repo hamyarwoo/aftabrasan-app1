@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59bad927-47b2-4efb-80a7-099ba621900b" name="Default Changelist" comment="" />
+    <list default="true" id="59bad927-47b2-4efb-80a7-099ba621900b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,20 +48,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Models/v1/Main.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/routes/app/v1/my_panel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            <state relative-caret-position="608">
+              <caret line="49" column="67" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="67" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Models/v1/MainModel.php">
+        <entry file="file://$PROJECT_DIR$/src/view/app/dashboard.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+            <state relative-caret-position="229">
+              <caret line="85" column="19" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/js/app-main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="285" column="52" lean-forward="true" selection-start-line="285" selection-start-column="52" selection-end-line="285" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -112,6 +123,9 @@
       <dir>D:\xampp\htdocs\aftabrasan-app\</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -149,7 +163,6 @@
         <option value="&lt;6feb131d-006a-4bd6-9adb-de19b33b1d71&gt;/public_html/assets/js/app-main.js" />
         <option value="&lt;6feb131d-006a-4bd6-9adb-de19b33b1d71&gt;/public_html/src/view/app_master_page.php" />
         <option value="&lt;6feb131d-006a-4bd6-9adb-de19b33b1d71&gt;/public_html/manifest.json" />
-        <option value="$PROJECT_DIR$/src/view/app/dashboard.php" />
         <option value="$PROJECT_DIR$/src/view/app_master_page.php" />
         <option value="$PROJECT_DIR$/src/view/app/panel/aftab_boxes.php" />
         <option value="$PROJECT_DIR$/src/view/app_master_page_public.php" />
@@ -166,6 +179,7 @@
         <option value="$PROJECT_DIR$/assets/css/rtl.css" />
         <option value="$PROJECT_DIR$/src/view/app/panel/parcel-out.php" />
         <option value="$PROJECT_DIR$/src/view/app/index.php" />
+        <option value="$PROJECT_DIR$/src/view/app/dashboard.php" />
       </list>
     </option>
   </component>
@@ -215,12 +229,20 @@
       <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
     </include_path>
   </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1456" />
     <option name="height" value="876" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -239,6 +261,45 @@
               <item name="aftabrasan-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="aftabrasan-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aftabrasan-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aftabrasan-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aftabrasan-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aftabrasan-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aftabrasan-app" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aftabrasan-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aftabrasan-app" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aftabrasan-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aftabrasan-app" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aftabrasan-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aftabrasan-app" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="v1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -247,6 +308,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
@@ -374,15 +436,16 @@
       <workItem from="1565060644269" duration="12992000" />
       <workItem from="1565155352930" duration="8436000" />
       <workItem from="1565238135453" duration="6738000" />
-      <workItem from="1565667320782" duration="2014000" />
+      <workItem from="1565667320782" duration="2637000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="296784000" />
+    <option name="totallyTimeSpent" value="297407000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22720695" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -655,31 +718,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/system/routes/app/v1/my_panel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1127">
-          <caret line="49" column="67" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/view/app/panel/aftab_boxes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1426">
           <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="69" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/app/dashboard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1978">
-          <caret line="85" column="25" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/app-main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7636">
-          <caret line="323" column="39" selection-start-line="323" selection-start-column="33" selection-end-line="323" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -735,6 +777,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Models/v1/Main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Models/v1/MainModel.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -742,10 +791,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Models/v1/Main.php">
+    <entry file="file://$PROJECT_DIR$/system/routes/app/v1/my_panel.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state relative-caret-position="608">
+          <caret line="49" column="67" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/app/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="85" column="19" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/app-main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="285" column="52" lean-forward="true" selection-start-line="285" selection-start-column="52" selection-end-line="285" selection-end-column="52" />
         </state>
       </provider>
     </entry>
