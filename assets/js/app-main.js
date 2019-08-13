@@ -291,8 +291,11 @@ function handleAjaxRequest(formAction, method, data, success, error, next_url = 
 
                     $('.ajax-alert .msg').html("\"پاسخی دریافت نشد ، وضعیت اینترنت خود را چک بفرمایید\"");
 
+
                 }
+
                 error();
+
 
             }
         });
