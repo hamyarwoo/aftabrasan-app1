@@ -1,0 +1,27 @@
+{
+  "name": "aftabrasan-app",
+  "version": "1.0.0",
+  "main": "/node_modules",
+  "dependencies": {
+    "uniq": "^1.0.1",
+    "web-push": "^3.3.5"
+  },
+  "scripts": {
+    "webpush": "/node_modules/web-push/src/cli generate-vapid-keys"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-push-libs/web-push.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web-push-libs/web-push/issues"
+  },
+  "homepage": "https://github.com/web-push-libs/web-push#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "description": ""
+}

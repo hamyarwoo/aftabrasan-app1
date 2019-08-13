@@ -1,0 +1,26 @@
+*   Trying 192.168.203.182...
+* TCP_NODELAY set
+* Connected to 192.168.203.182 (192.168.203.182) port 80 (#0)
+> POST /aftabrasan/api/v1/user/detail HTTP/1.1
+Host: 192.168.203.182
+Accept: */*
+Content-Length: 0
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 401 Unauthorized
+< Date: Tue, 02 Jul 2019 09:33:48 GMT
+< Server: Apache/2.4.34 (Win32) OpenSSL/1.1.0h PHP/7.2.8
+< X-Powered-By: PHP/7.2.8
+< Set-Cookie: aftabrasan=qmaanh641pgvl81d7mohequ0g5; expires=Wed, 03-Jul-2019 09:33:48 GMT; Max-Age=86400; path=/
+< Cache-Control: no-cache, no-store, must-revalidate
+< Pragma: no-cache
+< Expires: 0
+< Access-Control-Allow-Origin: *
+< Access-Control-Allow-Headers: *
+< Access-Control-Allow-Methods: GET,POST,PUT,DELETE
+< Access-Control-Allow-Credentials: *
+< Content-Length: 0
+< Content-Type: text/html; charset=UTF-8
+* HTTP error before end of send, stop sending
+< 
+* Closing connection 0
