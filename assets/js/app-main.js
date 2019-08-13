@@ -285,7 +285,9 @@ function handleAjaxRequest(formAction, method, data, success, error, next_url = 
                     var msg = data.responseJSON.msg[0];
                     $('.ajax-alert .msg').html(msg);
 
+
                 } else {
+
 
                     $('.ajax-alert .msg').html("\"پاسخی دریافت نشد ، وضعیت اینترنت خود را چک بفرمایید\"");
 
